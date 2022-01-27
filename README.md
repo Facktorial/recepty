@@ -1,24 +1,20 @@
-# Nějaké Horáčkovic recepty
+# README recipes
+Simple neccesity.
 
-Možná tu i někdy bude spousta receptů.
+Collection of distinctive recipes.
 
-## [Šablona](template.md)
+Project containing recipes in `.md` files with capability to generated nice *LaTex* `cookbook.pdf` or single-page-recipe pdf.
 
-## Globální předpoklady
+## More recipes
+Some ideas in `plan_to_cover.md`. More inspiration may occurs every day somehow.
 
- * Vymazat = sádlem.
- * Vysypat = polohrubou moukou.
- * Lžíce = polévková.
- * Lžička = čajová.
- * Utřít *a* s *b* = smíchat *a* a *b* tak, že ve výsledné směsi není
-   k rozpoznání *a* a *b*.
+## Next steps
+Better design of mergin recipes in one coockbook.
 
-## Konvence
+## Building .pdf files
+1. If needed `sudo apt install pandoc texlive`.
+2. To make chapters `make`.
+3. To rebuild `cookbook.pdf` (chapters.tex doen't change): `make cookbook`.
 
- * Návod psát v infinitivu (_Oddělit žloutky._)
- * Suroviny na konci nemají tečku.
- * Postup jsou celé číslované věty s velkým písmenem a tečkou na konci.
-
-## Obecné rady
-
- * Jakmile se někam přidá mouka (polévka), je třeba to míchat (prevence připálení).
+## Thanks
+For inspiracy and model of project to @horacekj (https://github.com/horacekj/recepty).

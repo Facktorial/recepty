@@ -1,18 +1,16 @@
-# Tučňáčí dort
+# Recipe template
+_Occasion._
 
-_Na závěrečnou poradu KSI._
+## Ingredients
+ * list
 
-## Suroviny
+## Recipe
+ 1. Enumerated list.
 
- * nečíslovaný seznam
- * první písmeno malé
- * bez tečky na konci
+## Ideas
 
-## Recept
+## Source
+Stackoverflow.
 
- 1. Číslovaný seznam.
- 2. První písmeno velké, tečky na konci. Prostě normální věta.
-
-## Zdroj
-
-Horáčkovic letitá rodinná kuchařka.
+##
+_"Motto"_.
