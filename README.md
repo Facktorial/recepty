@@ -3,10 +3,12 @@ Simple neccesity.
 
 Collection of distinctive recipes.
 
-Project containing recipes in `.md` files with capability to generated nice *LaTex* `cookbook.pdf` or single-page-recipe pdf.
+Project containing recipes in `.md` files with capability to generated nice *LaTex* [`cookbook.pdf`](https://github.com/Facktorial/recipes/blob/main/cookbook.pdf) or single-page-recipe pdf.
 
 ## More recipes
-Some ideas in `plan_to_cover.md`. More inspiration may occurs every day somehow.
+Some ideas in [`plan_to_cover.md`](https://github.com/Facktorial/recipes/blob/main/plan_to_cover.md). More inspiration may occurs every day somehow.
+
+## [Template](https://github.com/Facktorial/recipes/blob/main/template.md)
 
 ## Next steps
 Better design of mergin recipes in one coockbook.
