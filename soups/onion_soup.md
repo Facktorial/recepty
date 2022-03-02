@@ -1,5 +1,5 @@
 # Onion soup
-_When zou live in overflow of onions._
+_When you live in overflow of onions._
 
 ## Ingredients
  * lots of onions
@@ -24,4 +24,4 @@ _When zou live in overflow of onions._
 Stackoverflow.
 
 ##
-_"Are you bored of crying because zou can't afford to cry in the shower? This soup makes you cry on whole new level"_.
+_"Are you bored of crying because you can't afford to cry in the shower? This soup makes you cry on whole new level"_.

@@ -1,10 +1,12 @@
 # Plan to cover
-* cinnamon rolls
+* strudl
+* pernik
 * oath porridge
 * potato porridge
-* cookies
 * cheesecake
 * aglio ollio
+* lasaagne
+* easy pasta
 * creppes
 * variations of burger
 * some chicken variations
@@ -14,3 +16,4 @@
 * broth
 * waffle
 * sisky se strouhankou
+* baked potatoes with chicken and mustard
