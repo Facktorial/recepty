@@ -1,5 +1,5 @@
-# Tiramísu
-_If there is a mísa, which needed to be filled._
+# Cookies
+_Access to cookies is most important huma right. So occasion for cookies is everytime, everywhere._
 
 ## Ingredients
  * 0.25kg soften butter (be aware: `soft` not `weak`)
@@ -26,7 +26,7 @@ _If there is a mísa, which needed to be filled._
 This recipe works in different (bigger) scales.
 
 ## Source
-Experimenting with ration of ingredients.
+Experimenting with ratio of ingredients.
 
 ##
 _"If god didn't intended us eating half dough before baking, dough wouldn't be so delicious."_.
