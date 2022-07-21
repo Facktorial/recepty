@@ -1,5 +1,5 @@
 # Cookies
-_Access to cookies is most important huma right. So occasion for cookies is everytime, everywhere._
+_Access to cookies is most important huma right. Therefore occasion for cookies is anytime, anywhere._
 
 ## Ingredients
  * 0.25kg soften butter (be aware: `soft` not `weak`)
